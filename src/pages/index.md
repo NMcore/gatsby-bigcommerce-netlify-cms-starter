@@ -1,36 +1,32 @@
 ---
 templateKey: index-page
-title: The world brought to your doorstep
-subtitle: Your one-stop shop for unique products you'll love
-image: /img/city-background.jpg
+title: SHOP NOW!
+subtitle: APPAREL UP TO 75% OFF
+image: /img/home-hero.jpeg
 heading: The world brought to your doorstep
 mainpitch:
-  title: What is My Store?
+  title: SHOP OUR FAVORITE BRANDS
   description: >
-    My Store is a journey waiting to be had, from our journeys in the past. An 
-    ever changing collection of products that are meant to help broaden your 
-    daily life through the creation of others.
+    Top Brands Offered at Low Prices
 bigimage:
-  image: /img/bazaar-home.jpg
+  image: /img/brand-logos.png
   alt: Bazaar
 intro:  
   blurbs:
-    - image: /img/close-up-cloth.jpg
+    - image: /img/free-binding.jpeg
       text: >
-        Close up of cloth
-    - image: /img/art-chairs.jpg
+        Free Binding Mounts
+    - image: /img/ski-learn-center.jpeg
       text: >
-        Artistic chairs
-    - image: /img/arts-and-crafts.jpg
+        Ski Learn Center
+    - image: /img/teach-children.jpeg
       text: >
         Colorful arts and crafts
-    - image: /img/assorted-boutique.jpg
+    - image: /img/visit-us.jpeg
       text: >
-        Assorted boutique
-  heading: Purpose
+        Visit Us
+  heading: EXPERT ADVICE
   description: >
-    Looking for a final set piece for your home that brings you back to a certain memort? Something 
-    for a rainy day to help open your mind? A piece of apparel that tells a story all it's
-    own? That's what we seek out and hope you'll find here.
+    We love talking to our customers and sharing our gear knowledge. Our Customer Service team is based in Utah and knows our products inside and out. We're here to answer any questions and match you up to the right gear and the latest deals.
 ---
 

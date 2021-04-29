@@ -6047,3 +6047,12 @@ button.bc-btn.bc-cart-actions__checkout-button {
     margin-bottom: 1rem;
   }
 }
+
+.footer-logo {
+  margin-top: 2rem;
+}
+
+.m-2 {
+  margin: 1rem 0 0.5rem 0.5rem;
+  padding-left: 1rem;
+}

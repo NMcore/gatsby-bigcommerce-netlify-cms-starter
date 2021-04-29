@@ -42,7 +42,7 @@ export default class Index extends React.Component {
               <h2 className="title has-text-centered">Contact Us</h2>
               <div className="columns">
                 <div className="column is-6">
-                  <img src="/img/architecture-blur.jpg" alt="" style={{borderRadius: "6px"}} />
+                  <img src="/img/contact-us.jpeg" alt="" style={{borderRadius: "6px"}} />
                 </div>
                 <div className="column is-5 is-offset-1">
                   <div className="container">

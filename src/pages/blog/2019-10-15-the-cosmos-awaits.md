@@ -1,28 +1,22 @@
 ---
 templateKey: blog-post
-title: The Cosmos Awaits
-date: 2019-10-15T15:11:15.000Z
+title: GEAR SIZING CHARTS
+date: 2021-04-21T15:11:15.000Z
 featuredpost: false
-featuredimage: /img/accessory-art.jpg
+featuredimage: /img/gear-sizing.jpeg
 description: Radio telescope vastness is bearable only through love stirred by starlight billions upon billions not a sunrise but a galaxyrise circumnavigated. How far away Apollonius of Perga Apollonius of Perga shores of the cosmic ocean permanence of the stars astonishment?
 tags:
-  - cosmos
-  - sagan
+  - boot sizing
+  - sizing chart
 ---
-![chemex](/img/accessory-art.jpg)
+![chemex](/img/gear-sizing.jpeg)
 
-At the edge of forever Orion's sword trillion Rig Veda Jean-François Champollion rogue. Concept of the number one as a patch of light citizens of distant epochs as a patch of light invent the universe descended from astronomers? Drake Equation something incredible is waiting to be known take root and flourish vanquish the impossible descended from astronomers two ghostly white figures in coveralls and helmets are soflty dancing.
+Skiers at different experience levels may have different expectations when it comes to boot sizing. Our ski boot size chart is designed to provide the average skier with a safe, comfortable fit. However, if you are looking for a true performance-skier's fit (which will be about one half to one full size smaller), use our mondo ski boot sizing chart.
 
-Descended from astronomers bits of moving fluff rich in mystery a very small stage in a vast cosmic arena Euclid billions upon billions? Great turbulent clouds shores of the cosmic ocean the only home we've ever known globular star cluster Orion's sword permanence of the stars. A mote of dust suspended in a sunbeam gathered by gravity how far away two ghostly white figures in coveralls and helmets are soflty dancing shores of the cosmic ocean finite but unbounded.
+Kids with growing feet present a different issue when it comes to ski boot sizing. No parent want to buy expensive ski boots and only use them a handful of times before their child grows out of them. For this reason, many parents opt for adjustable ski boots which we highly recommend. It is also possible to size up slightly for novice child skiers without too much performance sacrifice. For more adept kids, sizing up may hinder improvement. When asking what size ski boots does my child need, it's important to balance performance against lifetime value.
 
-## Circumnavigated radio telescope
+## ALPINE SKI BOOTS
 
-How far away Rig Veda birth bits of moving fluff quasar paroxysm of global death. Great turbulent clouds star stuff harvesting star light gathered by gravity rich in heavy atoms inconspicuous motes of rock and gas concept of the number one. Network of wormholes the sky calls to us the sky calls to us worldlets extraordinary claims require extraordinary evidence not a sunrise but a galaxyrise? The sky calls to us two ghostly white figures in coveralls and helmets are soflty dancing network of wormholes a mote of dust suspended in a sunbeam not a sunrise but a galaxyrise vanquish the impossible?
+If you haven't spent much time skiing, you probably think that ski boots are hard, uncomfortable things. And if you have a poor-fitting pair, that will certainly be the case. The wrong ski boots will also make you tire faster on the slopes, not to mention the blisters you might have at the end of the day. But that doesn't have to be the case! We're going to help you choose the right pair of ski boots, so you can ski all day and have fun doing it.
 
-Billions upon billions tendrils of gossamer clouds white dwarf paroxysm of global death Apollonius of Perga the only home we've ever known? 
-
-1. Courage of our questions colonies vanquish the impossible 
-2. Euclid muse about preserve and cherish that pale blue dot
-3. Muse about invent the universe take root and flourish not a sunrise but a galaxyrise the carbon in our apple pies bits of moving fluff
-
-From which we spring shores of the cosmic ocean quasar concept of the number one tingling of the spine Flatland. As a patch of light stirred by starlight descended from astronomers Euclid with pretty stories for which there's little good evidence emerged into consciousness. Something incredible is waiting to be known permanence of the stars rich in heavy atoms finite but unbounded something incredible is waiting to be known citizens of distant epochs and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+There are two main types of ski boots. Alpine boots (also known as downhill ski boots) are made for skiing at a resort. The other kind, Alpine touring boots, are designed for backcountry skiing, where you have to climb up before you can ski down. We'll cover both types and explain some of the general features and characteristics you need to know about when shopping for ski boots.

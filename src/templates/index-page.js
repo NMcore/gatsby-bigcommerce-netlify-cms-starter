@@ -44,7 +44,8 @@ export const IndexPageTemplate = ({
             backgroundColor: 'rgba(0, 0, 0, 0.75)',
             color: 'white',
             lineHeight: '1',
-            padding: '0.25em'
+            padding: '0.25em',
+            marginLeft: '14rem',
           }}>
           {title}
         </h1>
@@ -56,7 +57,8 @@ export const IndexPageTemplate = ({
             backgroundColor: 'rgba(0, 0, 0, 0.75)',
             color: 'white',
             lineHeight: '1',
-            padding: '0.25em'
+            padding: '0.25em',
+            marginLeft: '14rem',
           }}>
           {subtitle}
         </h3>
@@ -96,12 +98,12 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="column is-12">
-                  <BlogItem post={post} columnWidth="is-12" />
-                  <div className="column is-12 has-text-centered">
+                  {/* <BlogItem post={post} columnWidth="is-12" /> */}
+                  {/* <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
                       Read more
                     </Link> 
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

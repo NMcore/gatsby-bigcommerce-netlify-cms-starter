@@ -1,17 +1,15 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About Us
-image: /img/bags-commerce-hanging.jpg
+title: About L9
+image: /img/about-us.jpeg
 ---
-### Creatively sourced for those that care
-We've searched the world to find products that we feel will not only speak to us, but any individuals that desire a positive outlook in a sustainable way.
+### We Rock
+You know it
 
-### We're adventurers
-Check in and you'll see us focused on an exciting experience that is typically a bold, sometimes risky, undertaking. Our travels have taken us into activities ranging from skydiving to mountain climbing to scuba diving and back.
+### You Rock
+We know it
 
-### Retail is our therapy
-Taking the scenic route through a city and figuring out what resonates with us is one of our favorite activies. Curation equals relaxation for us. 
+### Snowboarding is better than skiing
+This fact is true
 
-### We started a while ago
-Our first retail shop was up and running almost 30 years ago!
